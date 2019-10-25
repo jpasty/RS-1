@@ -1,0 +1,72 @@
+[Thu Oct 24 15:27:38.791510 2019] [ssl:warn] [pid 2750:tid 139633026757760] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 15:27:38.791561 2019] [ssl:warn] [pid 2750:tid 139633026757760] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 15:27:38.800675 2019] [ssl:warn] [pid 2751:tid 139633026757760] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 15:27:38.800690 2019] [ssl:warn] [pid 2751:tid 139633026757760] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 15:31:17.780648 2019] [ssl:warn] [pid 2901:tid 139949260145792] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 15:31:17.780688 2019] [ssl:warn] [pid 2901:tid 139949260145792] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 15:31:17.790319 2019] [ssl:warn] [pid 2902:tid 139949260145792] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 15:31:17.790335 2019] [ssl:warn] [pid 2902:tid 139949260145792] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 15:33:46.464943 2019] [ssl:warn] [pid 3023:tid 140537234936960] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 15:33:46.464989 2019] [ssl:warn] [pid 3023:tid 140537234936960] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 15:33:46.473108 2019] [ssl:warn] [pid 3024:tid 140537234936960] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 15:33:46.473123 2019] [ssl:warn] [pid 3024:tid 140537234936960] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 16:05:28.178282 2019] [ssl:warn] [pid 3249:tid 140183498863744] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 16:05:28.178323 2019] [ssl:warn] [pid 3249:tid 140183498863744] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 16:05:28.187542 2019] [ssl:warn] [pid 3250:tid 140183498863744] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 16:05:28.187559 2019] [ssl:warn] [pid 3250:tid 140183498863744] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 16:09:45.785978 2019] [ssl:warn] [pid 3351:tid 139857009403008] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 16:09:45.786019 2019] [ssl:warn] [pid 3351:tid 139857009403008] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 16:09:45.793367 2019] [ssl:warn] [pid 3352:tid 139857009403008] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 16:09:45.793382 2019] [ssl:warn] [pid 3352:tid 139857009403008] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 16:15:35.885140 2019] [ssl:warn] [pid 3512:tid 140230424425600] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 16:15:35.885180 2019] [ssl:warn] [pid 3512:tid 140230424425600] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 16:15:35.894245 2019] [ssl:warn] [pid 3513:tid 140230424425600] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 24 16:15:35.894260 2019] [ssl:warn] [pid 3513:tid 140230424425600] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:12:42.234782 2019] [ssl:warn] [pid 469:tid 140416201643136] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:12:42.264493 2019] [ssl:warn] [pid 469:tid 140416201643136] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:12:42.392266 2019] [ssl:warn] [pid 630:tid 140416201643136] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:12:42.392282 2019] [ssl:warn] [pid 630:tid 140416201643136] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:17:34.287033 2019] [ssl:warn] [pid 1167:tid 140061679920256] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:17:34.287072 2019] [ssl:warn] [pid 1167:tid 140061679920256] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:17:34.295126 2019] [ssl:warn] [pid 1168:tid 140061679920256] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:17:34.295142 2019] [ssl:warn] [pid 1168:tid 140061679920256] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:19:12.066024 2019] [ssl:warn] [pid 1243:tid 140230806230144] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:19:12.066063 2019] [ssl:warn] [pid 1243:tid 140230806230144] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:19:12.074035 2019] [ssl:warn] [pid 1244:tid 140230806230144] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:19:12.074051 2019] [ssl:warn] [pid 1244:tid 140230806230144] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:21:31.003523 2019] [ssl:warn] [pid 1659:tid 140182704628864] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:21:31.003567 2019] [ssl:warn] [pid 1659:tid 140182704628864] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:21:31.015764 2019] [ssl:warn] [pid 1660:tid 140182704628864] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:21:31.015782 2019] [ssl:warn] [pid 1660:tid 140182704628864] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:22:21.664171 2019] [ssl:warn] [pid 1737:tid 140070254527616] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:22:21.664210 2019] [ssl:warn] [pid 1737:tid 140070254527616] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:22:21.673779 2019] [ssl:warn] [pid 1738:tid 140070254527616] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:22:21.673795 2019] [ssl:warn] [pid 1738:tid 140070254527616] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:24:19.054642 2019] [ssl:warn] [pid 1826:tid 140504604464256] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:24:19.054680 2019] [ssl:warn] [pid 1826:tid 140504604464256] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:24:19.063701 2019] [ssl:warn] [pid 1827:tid 140504604464256] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:24:19.063751 2019] [ssl:warn] [pid 1827:tid 140504604464256] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:27:12.077869 2019] [ssl:warn] [pid 1922:tid 140018517120128] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:27:12.077911 2019] [ssl:warn] [pid 1922:tid 140018517120128] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:27:12.087257 2019] [ssl:warn] [pid 1923:tid 140018517120128] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:27:12.087277 2019] [ssl:warn] [pid 1923:tid 140018517120128] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:27:52.648166 2019] [ssl:warn] [pid 2006:tid 140431004198016] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:27:52.648206 2019] [ssl:warn] [pid 2006:tid 140431004198016] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:27:52.656981 2019] [ssl:warn] [pid 2007:tid 140431004198016] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:27:52.657027 2019] [ssl:warn] [pid 2007:tid 140431004198016] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:29:14.126317 2019] [ssl:warn] [pid 2078:tid 139733859021952] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:29:14.126361 2019] [ssl:warn] [pid 2078:tid 139733859021952] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:29:14.134986 2019] [ssl:warn] [pid 2079:tid 139733859021952] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:29:14.135003 2019] [ssl:warn] [pid 2079:tid 139733859021952] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:49:39.653468 2019] [ssl:warn] [pid 448:tid 140633416135808] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:49:39.672598 2019] [ssl:warn] [pid 448:tid 140633416135808] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 15:49:39.703896 2019] [ssl:warn] [pid 538:tid 140633416135808] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 15:49:39.703909 2019] [ssl:warn] [pid 538:tid 140633416135808] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 17:21:52.019990 2019] [ssl:warn] [pid 477:tid 140073140073600] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 17:21:52.020848 2019] [ssl:warn] [pid 477:tid 140073140073600] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 17:21:52.097659 2019] [ssl:warn] [pid 563:tid 140073140073600] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 17:21:52.097678 2019] [ssl:warn] [pid 563:tid 140073140073600] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 20:50:18.931131 2019] [ssl:warn] [pid 454:tid 140337561470080] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 20:50:18.934933 2019] [ssl:warn] [pid 454:tid 140337561470080] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 20:50:18.997778 2019] [ssl:warn] [pid 540:tid 140337561470080] AH01906: hypnotoad.ra:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 25 20:50:18.997794 2019] [ssl:warn] [pid 540:tid 140337561470080] AH01909: hypnotoad.ra:443:0 server certificate does NOT include an ID which matches the server name
